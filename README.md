@@ -1,4 +1,8 @@
-<h1>Configurações e Etapas para estilizar PowerShell
+<h1>Configurações e Etapas para estilização do meu terminal PowerShell</h1>
+
+<div align=center>
+  <img src=assets/My-PowerShell.png>
+</div>
 
 <br>
 
