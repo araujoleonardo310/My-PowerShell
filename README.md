@@ -36,7 +36,7 @@ _Reiniciar como admin_
 
 <br>
 
-    Install-Module -Name PSReadline -AllowPrerelease -Scope CurrentUser -Force SkipPublisherCheck
+     install-Module -Name PSReadline -AllowPrerelease -Scope CurrentUser -Force -SkipPublisherCheck
 
 <br>
 
